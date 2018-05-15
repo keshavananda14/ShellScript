@@ -1,0 +1,54 @@
+{
+  "presentation": {
+    "loop": true,
+    "lastUpd": "2017-04-13 15:02:19",
+    "newpres": 1,
+    "offset": "+05:30",
+    "plist": {
+      "plstName": "",
+      "playList": []
+    },
+    "pages": [
+      {
+        "type": 3,
+        "id": 543,
+        "slideName": "vishwa",
+        "left": 0.0,
+        "top": 0.0,
+        "height": 1080.0,
+        "width": 1920.0,
+        "bgcolor": "#ffffff",
+        "bgsrc": "",
+        "bgtrans": 1,
+        "border": 2,
+        "bordercolor": "#fff",
+        "gridDim": 1,
+        "orient": "landscape",
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "slideWindowBeginTime": "00:00:00",
+        "slideWindowEndtime": "23:59:59",
+        "tid": 543,
+        "duration": 12,
+        "def": false,
+        "effect": 0,
+        "slideMode": 0,
+        "animation": {
+          "startCmd": "221812001000000000000,B000005L.MPL",
+          "sqeezType": "",
+          "fullsize": true,
+          "description": []
+        },
+        "subPages": []
+      }
+    ]
+  },
+  "error": 0
+}
